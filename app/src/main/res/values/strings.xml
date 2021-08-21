@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Primeiro exemplo 2021</string>
+    <string name="rotulo_botao">Enviar</string>
+    <string name="msg_texto">Botão acionado</string>
+</resources>
